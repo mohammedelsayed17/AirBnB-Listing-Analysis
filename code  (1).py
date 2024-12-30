@@ -191,7 +191,7 @@ sns.despine()
 # In[43]:
 
 
-(filter_data_accommodates.plot(kind='barh',xlabel="price",ylabel='mohammed'))
+(filter_data_accommodates.plot(kind='barh',xlabel="price",ylabel='accommodates'))
 
 
 # # task3
